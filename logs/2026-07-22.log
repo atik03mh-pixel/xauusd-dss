@@ -1,0 +1,3 @@
+2026-07-22 21:22:33,485 | gold_ai_assistant | INFO | Phase 0 logging test successful!
+2026-07-22 21:22:33,486 | gold_ai_assistant | WARNING | This is a test warning message
+2026-07-22 21:22:33,488 | gold_ai_assistant | ERROR | This is a test error message
