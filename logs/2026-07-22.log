@@ -1,3 +1,9 @@
 2026-07-22 21:22:33,485 | gold_ai_assistant | INFO | Phase 0 logging test successful!
 2026-07-22 21:22:33,486 | gold_ai_assistant | WARNING | This is a test warning message
 2026-07-22 21:22:33,488 | gold_ai_assistant | ERROR | This is a test error message
+2026-07-22 21:43:56,688 | gold_ai_assistant | INFO | [M5] Data quality check passed - clean data
+2026-07-22 21:43:56,696 | gold_ai_assistant | INFO | [M15] Data quality check passed - clean data
+2026-07-22 21:43:56,706 | gold_ai_assistant | INFO | [M30] Data quality check passed - clean data
+2026-07-22 21:43:56,714 | gold_ai_assistant | INFO | [H1] Data quality check passed - clean data
+2026-07-22 21:43:56,721 | gold_ai_assistant | INFO | [H4] Data quality check passed - clean data
+2026-07-22 21:43:56,728 | gold_ai_assistant | WARNING | [D1] ⚠️ 2 টা সম্ভাব্য price spike পাওয়া গেছে
